@@ -1,3 +1,3 @@
-# GA-Leo.github.io
+# lixinm.github.io
 
 leo's blog page
