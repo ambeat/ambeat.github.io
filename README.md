@@ -1,3 +1,3 @@
-# lixinm.github.io
+# codycin.github.io
 
-leo's blog page
+codycin's blog page
